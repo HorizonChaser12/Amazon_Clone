@@ -3,7 +3,7 @@
 This project is an Amazon clone built using only HTML and CSS. It aims to replicate the basic functionality and layout of the Amazon website. Please note that this is a front-end project and does not include backend functionalities such as authentication or shopping cart functionality.
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://github.com/HorizonChaser12/Amazon_Clone/assets/78254378/e127fb7e-a56b-4a36-a122-134dfcd97c9e" alt="Centered Image" width="860" >
+    <img src="https://github.com/HorizonChaser12/Amazon_Clone/assets/78254378/e127fb7e-a56b-4a36-a122-134dfcd97c9e" alt="Centered Image">
 </div>
 
 ## Table of Contents
