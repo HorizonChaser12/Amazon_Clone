@@ -2,7 +2,7 @@
 
 This project is an Amazon clone built using only HTML and CSS. It aims to replicate the basic functionality and layout of the Amazon website. Please note that this is a front-end project and does not include backend functionalities such as authentication or shopping cart functionality.
 
-![Amazon Clone Preview](https://github.com/HorizonChaser12/Amazon_Clone/assets/78254378/906befc3-76eb-449d-8c73-cb151955af2c)
+![image](https://github.com/HorizonChaser12/Amazon_Clone/assets/78254378/906befc3-76eb-449d-8c73-cb151955af2c)
 
 ## Table of Contents
 - [Demo](#demo)
