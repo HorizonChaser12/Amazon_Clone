@@ -6,7 +6,6 @@ This project is an Amazon clone built using only HTML and CSS. It aims to replic
 
 ## Table of Contents
 - [Demo](#demo)
-- [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -14,16 +13,7 @@ This project is an Amazon clone built using only HTML and CSS. It aims to replic
 
 ## Demo
 
-Check out the live demo of the Amazon clone: [Amazon Clone Demo](https://example.com/amazon-clone)
-
-## Features
-
-The Amazon clone currently includes the following features:
-
-- Home page displaying a list of products with their images, titles, and prices.
-- Product detail page showing more information about a selected product.
-- Basic navigation header with links to Home, Products, and Login pages.
-- Responsive design for optimal viewing across various devices.
+Check out the live demo of the Amazon clone: [Amazon Clone Demo](https://horizonchaser12.github.io/Amazon_Clone/)
 
 ## Installation
 
