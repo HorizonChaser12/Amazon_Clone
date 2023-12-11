@@ -36,3 +36,12 @@ function handleScroll(event, slideClass, scrollAmount) {
     handleScroll(event, ".product-slide-2", -1100);
   });
   
+
+const backtop = document.querySelector(".backtop");
+backtop.addEventListener("click",()=>{
+  window.scrollTo({
+    top:0,
+    behavior:"smooth"
+  })
+})
+
