@@ -41,10 +41,6 @@ Feel free to use this project as a starting point for your own experiments or le
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open a pull request. For major changes, please open an issue first to discuss the proposed changes.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
 **Disclaimer**: This project is for educational and non-commercial use only. It is not affiliated with Amazon or any other brand. All product names, logos, and brands are property of their respective owners.
